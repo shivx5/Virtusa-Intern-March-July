@@ -1,0 +1,25 @@
+.routes-loader{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 10vw;
+  width: 10vw;
+  background-color: #fff;
+  border: 1vw solid black;
+  border-top: 1vw solid white;
+  border-bottom: 1vw solid white;
+  border-radius: 50%;
+  animation: spin 2s infinite;
+}
+.admin-button{
+  font-family: 'Poppins', sans-serif;
+  height: 50px;
+  width: 100%;
+  font-weight: 600;
+  background-color: #D6EAF8;
+  border: none;
+}
+.adBtnImg{
+  height: 30px;
+}
